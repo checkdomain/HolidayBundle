@@ -1,0 +1,6 @@
+parameters:
+    checkdomain.holiday.util.class: Checkdomain\Holiday\Util
+
+services:
+    checkdomain.holiday.util:
+        class: %checkdomain.holiday.util.class%
