@@ -3,4 +3,4 @@ parameters:
 
 services:
     checkdomain.holiday.util:
-        class: %checkdomain.holiday.util.class%
+        class: '%checkdomain.holiday.util.class%'
