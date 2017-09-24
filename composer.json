@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "checkdomain/holiday": "~2.0"
+        "checkdomain/holiday": "~2.0|~3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
